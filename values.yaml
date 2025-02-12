@@ -2,5 +2,5 @@ appName: mock-app
 message: 'Best CoP ! '
 image:
   repository: benmalekarim/mock-app-image-updater
-  tag: v2.5.0-develop
+  tag: v2.5.0-develop@sha256:01e841e0538141cd2767e2fcaa4a8619a8a8bbbcda18e0143dabd0920f760825
 replicas: 2
